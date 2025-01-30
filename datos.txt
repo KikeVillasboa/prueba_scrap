@@ -1,0 +1,11 @@
+Nombre,Edad,Correo
+Ana,25,ana@email.com
+Carlos,30,carlos@email.com
+Elena,22,elena@email.com
+Liz,24,liz@email.com
+Kike,28,kike@email.com
+Maria,32,maria@email.com
+Carlos,30,carlos@email.com
+Pablo,20,pablo@email.com
+Juan,26,juan@email.com
+Ana,25,ana@email.com
